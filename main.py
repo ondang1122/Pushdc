@@ -26,7 +26,6 @@ print("===========================================\n")
 time.sleep(1)
 
 channel_id = input("Masukkan ID channel: ")
-waktu1 = int(input("Set Waktu Hapus Pesan: "))
 waktu2 = int(input("Set Waktu Kirim Pesan: "))
 
 time.sleep(1)
